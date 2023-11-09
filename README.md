@@ -1,1 +1,1 @@
-# Analise de dados das entregas da Loggi
+# Análise exploratória de dados da Loggi
